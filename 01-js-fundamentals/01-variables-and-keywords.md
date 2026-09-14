@@ -11,6 +11,9 @@ RAM is primary storage area.
 Program in a running state is called Process.  
 If a program is loaded as a process, it gets some memory allocated to it from the RAM.
 
+NOTE:  
+In 1 second, our computers can approximately execute 10^8 instructions.
+
 ## Keywords
 
 In a programming language, few words are reserved by the language for its own purpose.  
